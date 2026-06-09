@@ -1,0 +1,55 @@
+name: "✨ Feature Request / Özellik İsteği"
+
+description: Yeni bir özellik öner. / Suggest a new feature.
+
+title: "[FEATURE] "
+labels: ["enhancement", "feature-request"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Yeni bir özellik önerdiğiniz için teşekkür ederiz!
+        Thank you for suggesting a new feature!
+
+  - type: textarea
+    id: feature_description
+    attributes:
+      label: "📝 Özellik Açıklaması / Feature Description"
+      placeholder: "Bu özellik ne yapmalı? / What should this feature do?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: "🎯 Kullanım Durumu / Use Case"
+      placeholder: "Bu özellik hangi sorunu çözecek? / What problem does this solve?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternative_solutions
+    attributes:
+      label: "🔄 Alternatif Çözümler / Alternative Solutions"
+      placeholder: "Başka çözümler var mı? / Are there alternative solutions?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "📋 Ek Bilgi / Additional Context"
+      placeholder: "Eklemek istediğin başka bilgi? / Any additional context?"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "📋 Kontrol Listesi / Checklist"
+      options:
+        - label: "Benzer bir feature request daha önce açılmış mı kontrol ettim"
+          required: true
+        - label: "Önerim APK-MASTER'ın vizyonuna uyuyor / My suggestion aligns with APK-MASTER's vision"
+          required: false

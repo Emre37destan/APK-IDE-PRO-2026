@@ -1,0 +1,33 @@
+# APK-MASTER 2026 PRO - EditorConfig
+root = true
+
+# Tüm markdown dökümanları için geçerli kurallar
+[*.md]
+charset = utf-8
+end_of_line = lf
+trim_trailing_whitespace = false
+insert_final_newline = true
+
+# Global repo konfigürasyon dosyası için kurallar
+[*.json]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Workflow tanımlamaları için kurallar
+[*.{yml,yaml}]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Diğer tüm düz metin tabanlı vitrin dosyaları
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true

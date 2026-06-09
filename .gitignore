@@ -1,0 +1,45 @@
+# =================================================================
+# 🔒 GİZLİ KAYNAK KOD KORUMASI (CLOSED SOURCE PROTECTION)
+# =================================================================
+# Ana Çalıştırıcı ve Bağımlılıklar
+/main.py
+/requirements.txt
+
+# Tüm Çekirdek Mimari, Modüller ve Arayüz Kodları
+/core/
+/gui/
+/assets/
+/settings/
+/tools/
+
+# Kullanıcı Verileri ve Çalışma Alanları
+/downloads/
+/workspace/
+/logs/
+*.log
+
+# =================================================================
+# 📦 DERLEME, PAKETLEME VE ÇIKTI DOSYALARI
+# =================================================================
+/Output/
+/dist_bin/
+/main.dist/
+/main.build/
+/*.build/
+*.spec
+*.manifest
+
+# Geliştirici ve Derleme Betikleri
+*.bat
+*.iss
+*.exe
+
+# Sistem ve Editör Kalıntıları
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+Desktop.ini

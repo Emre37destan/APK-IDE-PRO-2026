@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
     "download_url": "https://github.com/Emre37destan/APK-IDE-PRO-2026/releases/download/1.0.0/APK-IDE-PRO-2026.exe",
-    "changelog": "🇹🇷 Tüm sistem mimarisi baştan sona sağlamlaştırıldı, bellek sızıntıları ve beklenmedik kapanma (crash) sorunları tamamen giderildi.\n🇺🇸 The entire system structure has been fortified; all known bugs and sudden crash scenarios have been completely resolved.",
+    "changelog": "🇹🇷 Tüm sistem mimarisi baştan sona sağlamlaştırıldı, bellek sızıntıları ve beklenmedik kapanma sorunları tamamen giderildi.\n🇹🇷 Performans optimizasyonları yapıldı.\n🇺🇸 The entire system structure has been fortified; all known bugs and sudden crash scenarios have been completely resolved.\n🇺🇸 Performance optimizations completed.\n🇪🇸 Se ha renovado por completo la arquitectura del sistema, eliminando totalmente las fugas de memoria y los problemas de apagado inesperados.\n🇪🇸 Se han implementado optimizaciones de rendimiento.",
     "is_critical": true
 }

@@ -1,22 +1,62 @@
 <!DOCTYPE html>
-<html>
+<html lang="tr">
 <head>
+    <meta charset="UTF-8">
     <style>
-        body {
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: transparent;
+        /* Banner'ın siyah temaya jilet gibi oturması için */
+        * { margin: 0; padding: 0; overflow: hidden; -webkit-user-select: none; }
+        body, html { 
+            width: 100%; 
+            height: 100%; 
+            background-color: #000; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
-        img, svg {
+        .banner-container {
+            position: relative; /* Badge konumlandırması için */
             width: 100%;
             height: 100%;
-            object-fit: cover; /* Resmi kutuya kırpmadan sığdırır */
+            display: block;
+            text-decoration: none;
+        }
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: fill; /* Görseli alana tam yayar */
+            cursor: pointer;
+        }
+        /* Yanıp sönen destek rozeti */
+        .support-badge {
+            position: absolute;
+            bottom: 8px;
+            right: 8px;
+            background: rgba(46, 204, 113, 0.85); /* Şık yeşil tonu */
+            color: white;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 11px;
+            font-weight: bold;
+            letter-spacing: 0.5px;
+            box-shadow: 0 0 10px rgba(46, 204, 113, 0.5);
+            animation: pulse 2.5s infinite;
+            pointer-events: none; /* Tıklamayı engellemez, alta (linke) geçirir */
+        }
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 0.9; }
+            50% { transform: scale(1.05); opacity: 1; box-shadow: 0 0 15px rgba(46, 204, 113, 0.8); }
+            100% { transform: scale(1); opacity: 0.9; }
         }
     </style>
 </head>
 <body>
-    <img src="senin_reklam_gorselin.svg" alt="Reklam">
+
+    <a href="https://www.profitablecpmratenetwork.com/ifnrgma5he?key=008e6a1bef6d98083f24d68d124054eb" class="banner-container">
+        <img src="banner.png" alt="APK-MASTER 2026 PRO">
+        <div class="support-badge">🚀 CLICK TO SUPPORT PROJECT</div>
+    </a>
+
 </body>
 </html>
 

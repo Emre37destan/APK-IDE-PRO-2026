@@ -5,6 +5,8 @@
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
+
+    <a href="https://example.com"><img src="https://img.shields.io/github/license/Emre37destan/APK-IDE-PRO-2026?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license"></a>
 	<img src="https://img.shields.io/github/license/Emre37destan/APK-IDE-PRO-2026?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Emre37destan/APK-IDE-PRO-2026?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Emre37destan/APK-IDE-PRO-2026?style=flat-square&color=0080ff" alt="repo-top-language">
@@ -69,7 +71,7 @@
 <summary>Installation</summary>
 
 1. **🐛 Found a bug?**: Open an issue in the Issues tab.
-2. **🛡️ Security Vulnerability?**: Please check our `SECURITY.md` before reporting.
+2. **🛡️ Security Vulnerability?**: Please check our `**[SECURITY.md](https://github.com/Emre37destan/APK-IDE-PRO-2026/blob/main/SECURITY.md)**` before reporting.
 2. **📖 Want to contribute?**: Check our `CONTRIBUTING.md` guidelines.
 </details>
 

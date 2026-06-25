@@ -1,64 +1,8 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <style>
-        /* Banner'ın siyah temaya jilet gibi oturması için */
-        * { margin: 0; padding: 0; overflow: hidden; -webkit-user-select: none; }
-        body, html { 
-            width: 100%; 
-            height: 100%; 
-            background-color: #000; 
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        .banner-container {
-            position: relative; /* Badge konumlandırması için */
-            width: 100%;
-            height: 100%;
-            display: block;
-            text-decoration: none;
-        }
-        img {
-            width: 100%;
-            height: 100%;
-            object-fit: fill; /* Görseli alana tam yayar */
-            cursor: pointer;
-        }
-        /* Yanıp sönen destek rozeti */
-        .support-badge {
-            position: absolute;
-            bottom: 8px;
-            right: 8px;
-            background: rgba(46, 204, 113, 0.85); /* Şık yeşil tonu */
-            color: white;
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-size: 11px;
-            font-weight: bold;
-            letter-spacing: 0.5px;
-            box-shadow: 0 0 10px rgba(46, 204, 113, 0.5);
-            animation: pulse 2.5s infinite;
-            pointer-events: none; /* Tıklamayı engellemez, alta (linke) geçirir */
-        }
-        @keyframes pulse {
-            0% { transform: scale(1); opacity: 0.9; }
-            50% { transform: scale(1.05); opacity: 1; box-shadow: 0 0 15px rgba(46, 204, 113, 0.8); }
-            100% { transform: scale(1); opacity: 0.9; }
-        }
-    </style>
-</head>
-<body>
-
-    <a href="https://www.profitablecpmratenetwork.com/ifnrgma5he?key=008e6a1bef6d98083f24d68d124054eb" class="banner-container">
-        <img src="https://github.com/Emre37destan/ApkAds/blob/main/banner.png?raw=true" alt="APK-MASTER 2026 PRO">
-        <div class="support-badge">🚀 CLICK TO SUPPORT PROJECT</div>
-    </a>
-
-</body>
-</html>
+<p align="center">
+  <a href="https://github.com/Emre37destan/APK-IDE-PRO-2026" target="_blank">
+    <img src="https://raw.githubusercontent.com/Emre37destan/ApkAds/refs/heads/main/banner.png" alt="apk-ide-pro-2026-banner" width="800" onerror="this.src='https://via.placeholder.com/800x200?text=APK-IDE-PRO-2026'">
+  </a>
+</p>
 
 <p align="center">
   <em><code>❯ REPLACE-ME</code></em>

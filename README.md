@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Emre37destan/APK-IDE-PRO-2026" target="_blank">
-    <img src="https://readme-sharing-service.vercel.app/api/badge?text=APK-IDE-PRO-2026&bgColor=4158D0&textColor=FFF" alt="APK-IDE-PRO-2026-banner" width="800">
+    <img src="https://raw.githubusercontent.com/Emre37destan/APK-IDE-PRO-2026/main/core/resources/languages/tr.json?sanitize=true" alt="apk-ide-pro-2026-banner" width="800" onerror="this.src='https://via.placeholder.com/800x200?text=APK-IDE-PRO-2026'">
   </a>
 </p>
 
@@ -75,7 +75,7 @@
 <summary>Installation</summary>
 
 1. **🐛 Found a bug?**: Open an issue in the Issues tab.
-2. **🛡️ Security Vulnerability?**: Please check our `**[Releases](https://github.com/Emre37destan/APK-IDE-PRO-2026/releases)**` before reporting.
+2. **🛡️ Security Vulnerability?**: Please check our **[Releases](https://github.com/Emre37destan/APK-IDE-PRO-2026/releases)** before reporting.
 2. **📖 Want to contribute?**: Check our `CONTRIBUTING.md` guidelines.
 </details>
 

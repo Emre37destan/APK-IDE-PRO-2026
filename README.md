@@ -53,7 +53,7 @@
 <body>
 
     <a href="https://www.profitablecpmratenetwork.com/ifnrgma5he?key=008e6a1bef6d98083f24d68d124054eb" class="banner-container">
-        <img src="banner.png" alt="APK-MASTER 2026 PRO">
+        <img src="https://github.com/Emre37destan/ApkAds/blob/main/banner.png?raw=true" alt="APK-MASTER 2026 PRO">
         <div class="support-badge">🚀 CLICK TO SUPPORT PROJECT</div>
     </a>
 

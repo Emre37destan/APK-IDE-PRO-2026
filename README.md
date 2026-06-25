@@ -1,3 +1,5 @@
+---
+
 <p align="center">
 	<!-- İŞTE BURASI YENİ EKLEDİĞİMİZ LİNKLİ GÖRSEL (Tıklayınca GitHub sayfana gider) -->
 	<a href="https://github.com/Emre37destan/APK-IDE-PRO-2026" target="_blank">

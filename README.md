@@ -1,8 +1,24 @@
-<p align="center">
-  <a href="https://github.com/Emre37destan/APK-IDE-PRO-2026" target="_blank">
-    <img src="https://raw.githubusercontent.com/Emre37destan/APK-IDE-PRO-2026/main/core/resources/languages/tr.json?sanitize=true" alt="apk-ide-pro-2026-banner" width="800" onerror="this.src='https://via.placeholder.com/800x200?text=APK-IDE-PRO-2026'">
-  </a>
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: transparent;
+        }
+        img, svg {
+            width: 100%;
+            height: 100%;
+            object-fit: cover; /* Resmi kutuya kırpmadan sığdırır */
+        }
+    </style>
+</head>
+<body>
+    <img src="senin_reklam_gorselin.svg" alt="Reklam">
+</body>
+</html>
 
 <p align="center">
   <em><code>❯ REPLACE-ME</code></em>

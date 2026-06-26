@@ -75,8 +75,8 @@
 <summary>Contribution & Support</summary>
 
 1. **🐛 Found a bug?**: Open an issue in the Issues tab.
-2. **🛡️ Security Vulnerability?**: Please check our `**[SECURITY.md](https://github.com/Emre37destan/APK-IDE-PRO-2026/blob/main/SECURITY.md)**` before reporting.
-2. **📖 Want to contribute?**: Check our `**[CONTRIBUTING.md](https://github.com/Emre37destan/APK-IDE-PRO-2026/blob/main/CONTRIBUTING.md)**` guidelines.
+2. **🛡️ Security Vulnerability?**: Please check our **[SECURITY.md](https://github.com/Emre37destan/APK-IDE-PRO-2026/blob/main/SECURITY.md)** before reporting.
+2. **📖 Want to contribute?**: Check our **[CONTRIBUTING.md](https://github.com/Emre37destan/APK-IDE-PRO-2026/blob/main/CONTRIBUTING.md)** guidelines.
 </details>
 
 ---
